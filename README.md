@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+## expense-tracker
+MERN_Workspace for creating expense-tracker
+
+### Tech Stacks
+1. MongoDB (Database for maintaining transactions record)
+2. Node.JS Modules
+3. React Framework for desiginig front-end.
+4. Typescript
+5. REST APIs
+>>>>>>> 0109582353c05abcfb449f2fabfca00d0cc484cc
