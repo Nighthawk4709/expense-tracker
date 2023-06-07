@@ -1,0 +1,11 @@
+.body-container {
+  display: flex;
+  height: 100vh;
+}
+
+.half-split {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
