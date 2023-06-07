@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -79,4 +78,4 @@ MERN_Workspace for creating expense-tracker
 3. React Framework for desiginig front-end.
 4. Typescript
 5. REST APIs
->>>>>>> 0109582353c05abcfb449f2fabfca00d0cc484cc
+
